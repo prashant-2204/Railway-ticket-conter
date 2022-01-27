@@ -41,8 +41,8 @@ int main()
 	printf("\t\t|                                               |\n");
 	printf("\t\t|                                               |\n");
 	printf("\t\t|                                               |\n");
-	printf("\t\t|              BROUGHT TO YOU BY                |\n");
-	printf("\t\t|           |  code-projects.org  |             |\n");
+	printf("\t\t|          Prashant  RA2111004010439            |\n");
+	printf("\t\t|                                               |\n");
 	printf("\t\t|                                               |\n");
 	printf("\t\t=================================================\n\n\n");
 
